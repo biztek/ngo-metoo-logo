@@ -1,0 +1,2 @@
+# ngo-metoo-logo
+logo
